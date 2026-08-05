@@ -1,0 +1,8 @@
+{
+  "name": "MaidClean - Premium Local Cleaning Services",
+  "description": "A premium local cleaning services platform featuring an interactive price estimator, multiple-step booking & quote wizards, and a client booking tracker, styled in a premium Natural Tones aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
